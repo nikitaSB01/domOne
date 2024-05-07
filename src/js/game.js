@@ -33,6 +33,6 @@ export default class Game {
 
       prevPosition = position;
       position.appendChild(goblin);
-    }, 2000);
+    }, 1000);
   }
 }
