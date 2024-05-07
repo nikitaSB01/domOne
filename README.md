@@ -1,5 +1,1 @@
-# 1 - Заполнить .gitignore
-# 2 - Поместить в .eslintignore "dist, coverage, docs"
-
-
-
+![CI](https://github.com/nikitaSB01/domOne/actions/workflows/web.yml/badge.svg)
