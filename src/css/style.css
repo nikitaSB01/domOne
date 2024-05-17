@@ -10,7 +10,7 @@ body {
 }
 
 .container {
-    margin-top: 50px;
+    margin-top: 10px;
     display: flex;
     justify-content: center;
 }
@@ -30,9 +30,9 @@ body {
     background-color: #fff;
     border-radius: 20px;
 }
- img {
-   max-width: 100%;
- }
+img {
+    max-width: 100%;
+}
 
 #modal {
     position: absolute;
@@ -48,12 +48,13 @@ body {
     top: 30%;
     width: 30%;
     margin: 0 auto;
-    padding: 5px 20px 20px;
+    padding: 20px;
     background-color: #f8f6f6;
     text-align: center;
 }
 
 .panel {
+    margin-top: 20px;
     text-align: center;
 }
 
